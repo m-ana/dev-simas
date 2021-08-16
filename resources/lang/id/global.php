@@ -3,7 +3,7 @@
 return [
     'actions'                        => 'Tindakan',
     'add'                            => 'Tambah',
-    'allRightsReserved'              => 'All rights reserved.',
+    'allRightsReserved'              => 'Direktorat Teknologi Informasi - Ditjen AHU 2021',
     'areYouSure'                     => 'Apakah anda yakin?',
     'clickHereToVerify'              => 'Klik di sini untuk memverifikasi',
     'create'                         => 'Buat',
