@@ -17,7 +17,7 @@
 
                     <div class="row">
                         {{-- Widget - latest entries --}}
-                        <div class="{{ $settings1['column_class'] }}" style="overflow-x: auto;">
+                        <!-- <div class="{{ $settings1['column_class'] }}" style="overflow-x: auto;">
                             <h3>{{ $settings1['chart_title'] }}</h3>
                             <table class="table table-bordered table-striped">
                                 <thead>
@@ -53,7 +53,7 @@
                                     @endforelse
                                 </tbody>
                             </table>
-                        </div>
+                        </div> -->
 
                         {{-- Widget - latest entries --}}
                         <div class="{{ $settings2['column_class'] }}" style="overflow-x: auto;">

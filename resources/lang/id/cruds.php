@@ -177,7 +177,7 @@ return [
             'updated_at_helper'             => ' ',
             'deleted_at'                    => 'Deleted at',
             'deleted_at_helper'             => ' ',
-            'nama_lokasi'                   => 'Lokasi Data Center',
+            'nama_lokasi'                   => 'Lokasi Perangkat',
             'nama_lokasi_helper'            => ' ',
             'ruang_panel'                   => 'Ruang Panel',
             'ruang_panel_helper'            => ' ',
@@ -190,8 +190,8 @@ return [
         ],
     ],
     'dataCenter' => [
-        'title'          => 'Data Center',
-        'title_singular' => 'Data Center',
+        'title'          => 'Lokasi',
+        'title_singular' => 'Lokasi',
         'fields'         => [
             'id'                => 'ID',
             'id_helper'         => ' ',

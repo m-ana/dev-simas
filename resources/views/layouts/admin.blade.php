@@ -195,22 +195,22 @@
           columns: ':visible'
         }
       },
-      {
-        extend: 'copy',
-        className: 'btn-default',
-        text: copyButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
-      {
-        extend: 'csv',
-        className: 'btn-default',
-        text: csvButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
+      // {
+      //   extend: 'copy',
+      //   className: 'btn-default',
+      //   text: copyButtonTrans,
+      //   exportOptions: {
+      //     columns: ':visible'
+      //   }
+      // },
+      // {
+      //   extend: 'csv',
+      //   className: 'btn-default',
+      //   text: csvButtonTrans,
+      //   exportOptions: {
+      //     columns: ':visible'
+      //   }
+      // },
       {
         extend: 'excel',
         className: 'btn-default',
@@ -219,22 +219,22 @@
           columns: ':visible'
         }
       },
-      {
-        extend: 'pdf',
-        className: 'btn-default',
-        text: pdfButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
-      {
-        extend: 'print',
-        className: 'btn-default',
-        text: printButtonTrans,
-        exportOptions: {
-          columns: ':visible'
-        }
-      },
+      // {
+      //   extend: 'pdf',
+      //   className: 'btn-default',
+      //   text: pdfButtonTrans,
+      //   exportOptions: {
+      //     columns: ':visible'
+      //   }
+      // },
+      // {
+      //   extend: 'print',
+      //   className: 'btn-default',
+      //   text: printButtonTrans,
+      //   exportOptions: {
+      //     columns: ':visible'
+      //   }
+      // },
       {
         extend: 'colvis',
         className: 'btn-default',
