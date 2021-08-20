@@ -43,7 +43,7 @@ class HomeController
         }
 
         $settings2 = [
-            'chart_title'           => 'ATS',
+            'chart_title'           => 'Data Terakhir',
             'chart_type'            => 'latest_entries',
             'report_type'           => 'group_by_date',
             'model'                 => 'App\Models\DataPerangkatKera',

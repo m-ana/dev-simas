@@ -102,14 +102,14 @@
                 @endif
                 <span class="help-block">{{ trans('cruds.dataPerangkatKera.fields.tahun_berakhir_garansi_helper') }}</span>
             </div>
-            <div class="form-group">
+            <!-- <div class="form-group">
                 <label for="nomor_u_kosong">{{ trans('cruds.dataPerangkatKera.fields.nomor_u_kosong') }}</label>
                 <input class="form-control {{ $errors->has('nomor_u_kosong') ? 'is-invalid' : '' }}" type="text" name="nomor_u_kosong" id="nomor_u_kosong" value="{{ old('nomor_u_kosong', $dataPerangkatKera->nomor_u_kosong) }}">
                 @if($errors->has('nomor_u_kosong'))
                     <span class="text-danger">{{ $errors->first('nomor_u_kosong') }}</span>
                 @endif
                 <span class="help-block">{{ trans('cruds.dataPerangkatKera.fields.nomor_u_kosong_helper') }}</span>
-            </div>
+            </div> -->
             <div class="form-group">
                 <label for="foto">{{ trans('cruds.dataPerangkatKera.fields.foto') }}</label>
                 <div class="needsclick dropzone {{ $errors->has('foto') ? 'is-invalid' : '' }}" id="foto-dropzone">

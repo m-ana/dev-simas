@@ -95,14 +95,14 @@
                             {{ $dataPerangkatKera->tahun_berakhir_garansi }}
                         </td>
                     </tr>
-                    <tr>
+                    <!-- <tr>
                         <th>
                             {{ trans('cruds.dataPerangkatKera.fields.nomor_u_kosong') }}
                         </th>
                         <td>
                             {{ $dataPerangkatKera->nomor_u_kosong }}
                         </td>
-                    </tr>
+                    </tr> -->
                     <tr>
                         <th>
                             {{ trans('cruds.dataPerangkatKera.fields.foto') }}
